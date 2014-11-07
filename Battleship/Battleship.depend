@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415372882 source:c:\users\josue\documents\battleship\main.cpp
+	<iostream>
+	<cstdlib>
+
